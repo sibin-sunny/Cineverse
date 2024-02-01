@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Header from "./components/header/Header";
 import Footer from "./components/footer/Footer";
-import PageNotFound from "./pages/404/pageNotFound";
+import PageNotFound from "./pages/404/PageNotFound";
 import Detail from "./pages/details/Detail";
 import Explore from "./pages/explore/Explore";
 import Search from "./pages/searchResult/Search";
